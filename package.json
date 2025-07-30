@@ -1,0 +1,15 @@
+{
+  "name": "hono-firebase-auth",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "bun run src/index.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "firebase": "^10.14.1",
+    "hono": "^3.12.12"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
